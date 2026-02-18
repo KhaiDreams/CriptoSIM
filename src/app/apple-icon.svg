@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" fill="none">
+  <rect width="180" height="180" rx="40" fill="url(#gradient)"/>
+  <path d="M121 81c3-11-6-17-17-20l3-14-8-2-3 13c-2-1-5-1-7-2l3-13-8-2-3 14c-2 0-4-1-6-1l-11-3-2 9s6 1 6 2c3 1 4 3 4 5l-4 17v1l-6 24c0 1-2 3-4 2 0 0-6-1-6-1l-4 10 11 3c2 0 4 1 6 1l-3 14 8 2 3-14c2 1 5 1 7 2l-3 14 8 2 4-14c14 3 25 2 30-11 4-10 0-16-8-20 6-1 10-5 11-13zm-20 28c-3 10-20 5-25 3l5-18c6 1 24 4 21 15zm2-28c-2 9-17 4-21 3l4-16c5 1 20 3 17 13z" fill="white"/>
+  <defs>
+    <linearGradient id="gradient" x1="0" y1="0" x2="180" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7931A"/>
+      <stop offset="1" stop-color="#FFAB40"/>
+    </linearGradient>
+  </defs>
+</svg>
